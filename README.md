@@ -1,3 +1,2 @@
-# Python-code
-Description:
-Instacart Grocery Basket
+# Python-code for Instacart Grocery Basket
+
